@@ -1,1 +1,1 @@
-# export-project-template
+# {BLITZ_PROJECT_SLUG}
